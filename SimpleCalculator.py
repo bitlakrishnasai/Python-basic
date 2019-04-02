@@ -1,7 +1,5 @@
-name1 = input()
-name2 = input("enter second name")
-num1 = input('enter 1num')
-num2 = input('num2')
+num1 = input('enter number 1')
+num2 = input('Enter number 2')
 def calc():
     print('1. add\n2.subtract\n3.mustiply\n4.divide')
     calculation = input()
